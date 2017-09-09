@@ -1,5 +1,5 @@
 {
-    "name": "kodi-app/kodi-twig-provider",
+    "name": "kodi-app/kodi-pandabase-provider",
     "type": "library",
     "description": "KodiApp Pandabase provider",
     "keywords": ["framework","php","twig","kodiapp"],
