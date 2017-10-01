@@ -2,7 +2,7 @@
     "name": "kodi-app/kodi-pandabase-provider",
     "type": "library",
     "description": "KodiApp Pandabase provider",
-    "keywords": ["framework","php","twig","kodiapp"],
+    "keywords": ["framework","php","orm","kodiapp"],
     "license": "Apache-2.0",
     "homepage": "https://github.com/kodi-app/kodi-pandabase-provider",
     "authors": [
